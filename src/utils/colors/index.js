@@ -36,4 +36,5 @@ export const colors = {
     },
   },
   border: mainColors.grey2,
+  cardLight: mainColors.green2,
 };
